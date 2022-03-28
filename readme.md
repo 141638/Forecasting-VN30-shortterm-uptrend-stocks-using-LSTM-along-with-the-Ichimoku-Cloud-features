@@ -1,4 +1,4 @@
-# [An Empirical Examination on forecasting VN30 short-term uptrend stocks using LSTM along with theIchimoku Cloud trading strategy](https://arxiv.org/abs/)
+# [An Empirical Examination on forecasting VN30 short-term uptrend stocks using LSTM along with the Ichimoku Cloud trading strategy](https://arxiv.org/abs/)
 
 **Hoang Trung Hieu, Pham Ngoc Hai**
 
