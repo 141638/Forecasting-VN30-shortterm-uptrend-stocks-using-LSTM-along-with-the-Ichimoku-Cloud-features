@@ -10,7 +10,7 @@ pip install scikit-learn==0.20.4
 pip install tensorflow==1.14.0
 ```
 #### Dataset
-Dataset contains a large amount of feature values of vn-index from 2012 to 2020. Because of size limitation, we uploaded the processed data for the demonstration in [final_demo](final demo.ipynb) on googledrive
+Dataset contains a large amount of feature values of vn-index from 2012 to 2020. Because of size limitation, we uploaded the processed data for the demonstration in [final_demo](final_demo.ipynb) on googledrive
 ```
 https://drive.google.com/drive/folders/1rkp5LwlM7cLPpc1MeGq-_yEhrlvQLU49?usp=sharing
 ```
