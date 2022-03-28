@@ -29,18 +29,19 @@ We plot the Cumulative money growth during the study periods, with and without I
 
 #### Financial Performance
 <div>
-<img src="result-image/performance1.png" width="49%">
+<img src="result-image/performance1.jpg" width="49%">
 </div>
 We compare the financial performance of our proposed model to the performance of the very same model but without the Ichimoku Cloud features. The intent is to highlight the effectiveness of the Ichimoku Cloud in terms of improving prediction power.
 
 <div>
-<img src="result-image/performance2.png" width="49%">
+<img src="result-image/performance2.jpg" width="49%">
 </div>
 On the one hand, it can be inferred from the figure that our trading scheme’s performance is very competitive with the performance of the local stock market indexes
   
 
 ## References
 [1] [Ghosh, P., Neufeld, A. and Sahoo, J., 2021. Forecasting directional movements of stock prices for intraday trading using LSTM and random forests. Finance Research Letters, p. 102280.](https://arxiv.org/abs/2004.10178)
+<br>
 [2] [Gurrib, I., Kamalov, F. and Elshareif, E., 2020. CAN THE LEADING US ENERGY STOCK PRICES BE PREDICTED USING THE ICHIMOKU CLOUD?. International Journal of Energy Economics and Policy, 11(1), pp. 41-51](https://www.econjournals.com/index.php/ijeep/article/view/10260)
 
 
