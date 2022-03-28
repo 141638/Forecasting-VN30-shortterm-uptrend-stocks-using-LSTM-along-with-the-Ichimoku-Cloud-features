@@ -1,6 +1,5 @@
 # [An Empirical Examination on forecasting VN30 short-term uptrend stocks using LSTM along with theIchimoku Cloud trading strategy](https://arxiv.org/abs/)
 
-//**https://arxiv.org/abs/2004.10178** <br>
 **Hoang Trung Hieu, Pham Ngoc Hai**
 
 we propose a LSTM network that use historical price changes in percentages and features extracted from the Ichimoku Cloud strategy to forecast the probability of outperforming the market of all stocks listed in VN30 index. The study was conducted in a time period of 9 years – from VN30 index’s establishment in 2012 to the end of 2020.
@@ -15,13 +14,27 @@ pip install tensorflow==1.14.0
 We plot the Cumulative money growth during the study periods, with and without Ichimoku Cloud features, to quantify the effectiveness of our model: [10days_trade_pct_ichimoku.ipynb](trainer/10days_trade_pct_ichimoku.ipynb), in the period January 2015 till December 2020. <br>
 
 #### Cumulative Money growth (Proposed model)
+<div style="color:white">
+  <img src="result-image/profit_ichimoku_2015.jpg" width="33%">
+  <img src="result-image/profit_ichimoku_2016.jpg" width="33%">
+  <img src="result-image/profit_ichimoku_2017.jpg" width="33%">
+</div>
 <div>
-<img src="result-image/profit.png" width="80%">
+  <img src="result-image/profit_ichimoku_2018.jpg" width="33%">
+  <img src="result-image/profit_ichimoku_2019.jpg" width="33%">
+  <img src="result-image/profit_ichimoku_2020.jpg" width="33%">
 </div>
 
 #### Average daily returns (Without Ichimoku Cloud)
+<div style="color:white">
+  <img src="result-image/profit2015.jpg" width="33%">
+  <img src="result-image/profit2016.jpg" width="33%">
+  <img src="result-image/profit2017.jpg" width="33%">
+</div>
 <div>
-<img src="result-image/profit_withoutIchimoku.png" width="80%">
+  <img src="result-image/profit2018.jpg" width="33%">
+  <img src="result-image/profit2019.jpg" width="33%">
+  <img src="result-image/profit2020.jpg" width="33%">
 </div>
 
 
@@ -29,7 +42,7 @@ We plot the Cumulative money growth during the study periods, with and without I
 
 #### Financial Performance
 <div>
-<img src="result-image/performance1.jpg" width="90%">
+<img src="result-image/performance1.jpg" width="90%" >
 </div>
 We compare the financial performance of our proposed model to the performance of the very same model but without the Ichimoku Cloud features. The intent is to highlight the effectiveness of the Ichimoku Cloud in terms of improving prediction power.
 
