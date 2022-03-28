@@ -16,12 +16,12 @@ We plot the Cumulative money growth during the study periods, with and without I
 
 #### Cumulative Money growth (Proposed model)
 <div>
-<img src="result-image/profit.png" width="32.5%">
+<img src="result-image/profit.png" width="80%">
 </div>
 
 #### Average daily returns (Without Ichimoku Cloud)
 <div>
-<img src="result-image/profit_withoutIchimoku.png" width="32.5%">
+<img src="result-image/profit_withoutIchimoku.png" width="80%">
 </div>
 
 
@@ -29,12 +29,12 @@ We plot the Cumulative money growth during the study periods, with and without I
 
 #### Financial Performance
 <div>
-<img src="result-image/performance1.jpg" width="49%">
+<img src="result-image/performance1.jpg" width="90%">
 </div>
 We compare the financial performance of our proposed model to the performance of the very same model but without the Ichimoku Cloud features. The intent is to highlight the effectiveness of the Ichimoku Cloud in terms of improving prediction power.
 
 <div>
-<img src="result-image/performance2.jpg" width="49%">
+<img src="result-image/performance2.jpg" width="90%">
 </div>
 On the one hand, it can be inferred from the figure that our trading scheme’s performance is very competitive with the performance of the local stock market indexes
   
