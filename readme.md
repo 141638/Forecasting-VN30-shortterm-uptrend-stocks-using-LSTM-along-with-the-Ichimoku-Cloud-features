@@ -9,6 +9,11 @@ we propose a LSTM network that use historical price changes in percentages and f
 pip install scikit-learn==0.20.4
 pip install tensorflow==1.14.0
 ```
+#### Dataset
+Dataset contains a large amount of feature values of vn-index from 2012 to 2020. Because of size limitation, we uploaded the processed data for the demonstration in [final_demo](final_demo) on googledrive, you can find it here
+```
+https://drive.google.com/drive/folders/1rkp5LwlM7cLPpc1MeGq-_yEhrlvQLU49?usp=sharing
+```
 
 ## Plots
 We plot the Cumulative money growth during the study periods, with and without Ichimoku Cloud features, to quantify the effectiveness of our model: [10days_trade_pct_ichimoku.ipynb](trainer/10days_trade_pct_ichimoku.ipynb), in the period January 2015 till December 2020. <br>
